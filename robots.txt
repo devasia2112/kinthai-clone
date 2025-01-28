@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://kinthai.in.th/sitemap.xml
+Sitemap: https://kinthai.in.th/sitemap_index.xml
